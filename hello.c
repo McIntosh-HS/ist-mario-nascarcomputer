@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("Hello, IST!\n");
+	printf("Sweet Still Criminal Bombastic Venom!\n");
 	return 0;
 }
